@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TheNewRise",
-    "currentPage": "index.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -423,7 +423,7 @@
           },
           "title": "Our Mission!",
           "text": "<span style=\"font-style: normal;\">Under the motto “Your House, Our Reputation”, The New Rise Design/Build Construction Inc., aims at providing customers with the most precise, practical and effective structural repairing solutions that are cost-effective and that will not jeopardize their budget or peace of mind.</span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page1.html#form1-u\" data-toolbar=\"-mbrBtnMove\">Schedule a Foundation Inspection</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"contact.html#form1-u\" data-toolbar=\"-mbrBtnMove\">Schedule a Foundation Inspection</a> ",
           "_tags": [
             "Theme"
           ],
