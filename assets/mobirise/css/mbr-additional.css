@@ -1,6 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
+
 
 
 
@@ -413,15 +417,20 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#header1-0 .mbr-section-title {
-  font-size: 46px;
+#header1-19 .mbr-section-title DIV {
+  font-size: 36px;
+  font-family: 'Lato', sans-serif;
 }
-#header1-0 .mbr-section-lead {
-  font-size: 20px;
+#header1-19 .mbr-section-lead {
   font-family: 'Raleway', sans-serif;
-}
-#header1-0 .mbr-section-lead SPAN {
   font-size: 17px;
+}
+#header1-19 .btn {
+  font-size: 17px;
+}
+#header1-19 .mbr-section-title {
+  font-size: 72px;
+  font-family: 'Oswald', sans-serif;
 }
 #header3-3 .mbr-section-title,
 #header3-3 .mbr-section-subtitle {

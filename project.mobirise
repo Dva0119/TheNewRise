@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TheNewRise",
-    "currentPage": "about.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.5.4",
-    "uniqCompNum": 45,
+    "uniqCompNum": 46,
     "versionPublish": "4.5.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -59,34 +59,41 @@
             "bgImage": "@PROJECT_PATH@/assets/images/tnr17004-foundation-drainage-21-2000x1125.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#a07e49",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000000",
+            "overlayColor": "#000",
             "overlayOpacity": "0.4"
           },
-          "title": "The New Rise<br>Design/Build Construction, Inc.",
-          "text": "<span style=\"font-style: normal;\">If you are looking for a professional engineering contractor to perform a foundation inspection or that specializes in providing structural repair solutions for foundation related problems as well as retaining wall problems, then you are at the right place.</span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"contact.html#form1-u\" data-toolbar=\"-mbrBtnMove\">Schedule an Inspection</a> ",
+          "title": "The New Rise\n<div>Design/Build Construction, Inc.</div>",
+          "text": "<span style=\"font-style: normal;\">If you are looking for a professional engineering contractor to perform a foundation inspection or that specializes in providing structural repair solutions for foundation related problems as well as retaining wall problems, then you are at the right place.</span>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:(323) 405-1407\" data-toolbar=\"-mbrBtnMove\">(323) 405-1407</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www2.cslb.ca.gov/onlineservices/CheckLicenseII/LicenseDetail.aspx?LicNum=1002509\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CSLB #1002509</a> ",
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-0",
+          "_anchor": "header1-19",
           "_styles": {
-            ".mbr-section-title": {
-              "font-size": "46px"
+            ".mbr-section-title DIV": {
+              "font-size": "36px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             ".mbr-section-lead": {
-              "font-size": "20px",
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            ".mbr-section-lead SPAN": {
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "17px"
+            },
+            ".btn": {
+              "font-size": "17px"
+            },
+            ".mbr-section-title": {
+              "font-size": "72px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           }
         },
@@ -120,8 +127,8 @@
             "bgColor": "#efefef"
           },
           "text1": "<p><span style=\"font-size: 1.07rem;\">Foundation Inspection</span><br></p><p><span style=\"font-size: 1.07rem;\">Foundation Crack Repair</span></p><p><span style=\"font-size: 1.07rem;\">Foundation Replacement</span></p><p><span style=\"font-size: 1.07rem;\">Foundation Sistering</span></p><p><span style=\"font-size: 1.07rem;\">Foundation Underpinning</span></p><p><span style=\"font-size: 1.07rem;\">Foundation Bolting</span></p><p><span style=\"font-size: 1.07rem;\">Foundation Waterproofing</span></p><p><span style=\"font-size: 1.07rem;\">Foundation Slab Crack Repair</span></p><p><span style=\"font-size: 1.07rem;\">Foundation Slab Replacement</span></p><p><span style=\"font-size: 1.07rem;\">Foundation Slab Undepinning</span></p><p><span style=\"font-size: 1.07rem;\">Foundation Retrofits</span></p>",
-          "text2": "<div>Seismic Retrofit\n</div><div>Soft-story Earthquake Retrofit\n</div><div>Weak-Story Earthquake Retrofit&nbsp;\n</div><div>Surface Drainage\n</div><div>Subdrainage \"French Drain\"\n</div><div>Bearing Wall RemovalPosts and Piers Replacement</div><div>Posts and Piers Strapping\n</div><div>Floor Jacking and Leveling</div><div>Basement Waterproofing</div><div>Planter Waterproofing&nbsp;</div><div><br></div><p></p>",
-          "text3": "<p>Retaining Wall Crack Repair</p><p>Retaining Wall Replacement</p><p>Retaining Wall Sistering</p><p>Retaining Wall Underpinning</p><p>Retaining Wall Waterproofing</p><p>Retaining Wall Subdrainage</p><p>Retaining Wall Suface Drainage</p><p>Independant Shoring Pad Footings</p><p>Piles and Grade Beam Support Footings</p><p>Tilt-Up Concrete Earthquake Strenghtening</p><p>Stilt House Eathquake Strengthening</p><p><br></p>",
+          "text2": "<div>Retaining Wall Crack Repair\r</div><div>Retaining Wall Replacement\r</div><div>Retaining Wall Sistering\r</div><div>Retaining Wall Underpinning\r</div><div>Retaining Wall Waterproofing\r</div><div>Retaining Wall Subdrainage\r</div><div>Retaining Wall Suface Drainage\r</div><div>Independant Shoring Pad Footings\r</div><div>Piles and Grade Beam Support Footings\r</div><div>Tilt-Up Concrete Earthquake Strenghtening\r</div><div>Stilt House Eathquake Strengthening\r</div><div><br></div><p></p>",
+          "text3": "<p>Seismic Retrofit\r</p><p>Soft-story Earthquake Retrofit\r</p><p>Weak-Story Earthquake Retrofit \r</p><p>Surface Drainage\r</p><p>Subdrainage \"French Drain\"\r</p><p>Bearing Wall RemovalPosts and Piers Replacement\r</p><p>Posts and Piers Strapping\r</p><p>Floor Jacking and Leveling\r</p><p>Basement Waterproofing\r</p><p>Planter Waterproofing&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
