@@ -41,7 +41,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Foundation Contractor | Foundation Inspection | Foundation Repairs",
         "meta_descr": "Looking for a professional foundation contractor to perform a foundation inspection? Then give us a call TODAY!!! (323) 405-1407",
         "header_custom": "",
         "footer_custom": "",
@@ -127,8 +127,8 @@
             "bgColor": "#efefef"
           },
           "text1": "<p><span style=\"font-size: 1.07rem;\">Foundation Inspection</span><br></p><p><span style=\"font-size: 1.07rem;\">Foundation Crack Repair</span></p><p><span style=\"font-size: 1.07rem;\">Foundation Replacement</span></p><p><span style=\"font-size: 1.07rem;\">Foundation Sistering</span></p><p><span style=\"font-size: 1.07rem;\">Foundation Underpinning</span></p><p><span style=\"font-size: 1.07rem;\">Foundation Bolting</span></p><p><span style=\"font-size: 1.07rem;\">Foundation Waterproofing</span></p><p><span style=\"font-size: 1.07rem;\">Foundation Slab Crack Repair</span></p><p><span style=\"font-size: 1.07rem;\">Foundation Slab Replacement</span></p><p><span style=\"font-size: 1.07rem;\">Foundation Slab Undepinning</span></p><p><span style=\"font-size: 1.07rem;\">Foundation Retrofits</span></p>",
-          "text2": "<div>Retaining Wall Crack Repair\r</div><div>Retaining Wall Replacement\r</div><div>Retaining Wall Sistering\r</div><div>Retaining Wall Underpinning\r</div><div>Retaining Wall Waterproofing\r</div><div>Retaining Wall Subdrainage\r</div><div>Retaining Wall Suface Drainage\r</div><div>Independant Shoring Pad Footings\r</div><div>Piles and Grade Beam Support Footings\r</div><div>Tilt-Up Concrete Earthquake Strenghtening\r</div><div>Stilt House Eathquake Strengthening\r</div><div><br></div><p></p>",
-          "text3": "<p>Seismic Retrofit\r</p><p>Soft-story Earthquake Retrofit\r</p><p>Weak-Story Earthquake Retrofit \r</p><p>Surface Drainage\r</p><p>Subdrainage \"French Drain\"\r</p><p>Bearing Wall RemovalPosts and Piers Replacement\r</p><p>Posts and Piers Strapping\r</p><p>Floor Jacking and Leveling\r</p><p>Basement Waterproofing\r</p><p>Planter Waterproofing&nbsp;</p>",
+          "text2": "<div>Retaining Wall Crack Repair\n</div><div>Retaining Wall Replacement\n</div><div>Retaining Wall Sistering\n</div><div>Retaining Wall Underpinning\n</div><div>Retaining Wall Waterproofing\n</div><div>Retaining Wall Subdrainage\n</div><div>Retaining Wall Suface Drainage\n</div><div>Independant Shoring Pad Footings\n</div><div>Piles and Grade Beam Support Footings\n</div><div>Tilt-Up Concrete Earthquake Strenghtening\n</div><div>Stilt House Eathquake Strengthening\n</div><div><br></div><p></p>",
+          "text3": "<p>Seismic Retrofit\n</p><p>Soft-story Earthquake Retrofit\n</p><p>Weak-Story Earthquake Retrofit \n</p><p>Surface Drainage\n</p><p>Subdrainage \"French Drain\"\n</p><p>Bearing Wall Removal</p><p>Posts and Piers Replacement\n</p><p>Posts and Piers Strapping\n</p><p>Floor Jacking and Leveling\n</p><p>Basement Waterproofing\n</p><p>Planter Waterproofing&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -403,8 +403,8 @@
     },
     "about.html": {
       "settings": {
-        "meta_descr": "Looking for a professional foundation contractor to perform an earthquake retrofit for your house? Then give us a call TODAY!!! We are the BEST!!!",
-        "title": "About Us",
+        "meta_descr": "Looking for a professional earthquake retrofit contractor to perform a seismic retrofit for your house? Then give us a call TODAY!!! We are the BEST in Los Angeles County!",
+        "title": "Seismic Retrofit | Soft-Story Retrofit | Earthquake Brace + Bolt",
         "order": 1
       },
       "components": [
@@ -846,7 +846,7 @@
     "contact.html": {
       "settings": {
         "meta_descr": "Foundation problem? Then schedule a foundation appointment today. We can help in provide affordable foundation repair solutions for you home.",
-        "title": "Contact Us",
+        "title": "Retaining Wall Repairs | Basement Waterproofing | Piles and Grade Beam Footings",
         "order": 2
       },
       "components": [
