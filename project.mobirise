@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.5.4",
-    "uniqCompNum": 46,
+    "uniqCompNum": 49,
     "versionPublish": "4.5.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -851,41 +851,53 @@
       },
       "components": [
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            }
-          },
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButton": false,
-            "paddingTop": "5",
-            "paddingBottom": "3",
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/foundation-slab-repair-3-2000x1125.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#a07e49",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.3"
+            "overlayColor": "#000",
+            "overlayOpacity": "0.2"
           },
-          "title": "<a href=\"tel:(323) 405-1407\" class=\"text-white\">(323) 405-1407</a>",
-          "text": "<p>38569 9th St. East, Palmdale, CA 93550</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "title": "The New Rise\n<div>Design/Build Construction, Inc.</div>",
+          "text": "<span style=\"font-style: normal;\">38569 9th St. East, Palmdale, CA 93550</span>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"mailto:Dvlad@thenewrise.com\" data-toolbar=\"-mbrBtnMove\">Dvlad@thenewrise.com</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"tel:(323) 405-1407\" data-toolbar=\"-mbrBtnMove\">(323) 405-1407</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-x"
+          "_name": "header1",
+          "_anchor": "header1-1c",
+          "_styles": {
+            ".mbr-section-title DIV": {
+              "font-size": "36px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-size": "72px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-lead": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "17px"
+            },
+            ".btn": {
+              "font-size": "17px"
+            }
+          }
         },
         {
           "_params": {

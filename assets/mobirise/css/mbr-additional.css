@@ -626,12 +626,23 @@ h6,
 #ext_menu-10 .btn {
   font-size: 17px;
 }
-#msg-box8-x .mbr-section-title,
-#msg-box8-x p {
-  color: #fff;
+
+
+
+#header1-1c .mbr-section-title DIV {
+  font-size: 36px;
+  font-family: 'Lato', sans-serif;
 }
-#msg-box8-x .mbr-section-title {
-  color: #ffffff;
+#header1-1c .mbr-section-title {
+  font-size: 72px;
+  font-family: 'Oswald', sans-serif;
+}
+#header1-1c .mbr-section-lead {
+  font-family: 'Raleway', sans-serif;
+  font-size: 17px;
+}
+#header1-1c .btn {
+  font-size: 17px;
 }
 #form1-u .form-control-label {
   color: #232323;
