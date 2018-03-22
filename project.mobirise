@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.5.4",
-    "uniqCompNum": 49,
+    "uniqCompNum": 53,
     "versionPublish": "4.5.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -126,19 +126,16 @@
             "paddingBottom": "5",
             "bgColor": "#efefef"
           },
-          "text1": "<p><span style=\"font-size: 1.07rem;\">Foundation Inspection</span><br></p><p><span style=\"font-size: 1.07rem;\">Foundation Crack Repair</span></p><p><span style=\"font-size: 1.07rem;\">Foundation Replacement</span></p><p><span style=\"font-size: 1.07rem;\">Foundation Sistering</span></p><p><span style=\"font-size: 1.07rem;\">Foundation Underpinning</span></p><p><span style=\"font-size: 1.07rem;\">Foundation Bolting</span></p><p><span style=\"font-size: 1.07rem;\">Foundation Waterproofing</span></p><p><span style=\"font-size: 1.07rem;\">Foundation Slab Crack Repair</span></p><p><span style=\"font-size: 1.07rem;\">Foundation Slab Replacement</span></p><p><span style=\"font-size: 1.07rem;\">Foundation Slab Undepinning</span></p><p><span style=\"font-size: 1.07rem;\">Foundation Retrofits</span></p>",
-          "text2": "<div>Retaining Wall Crack Repair\n</div><div>Retaining Wall Replacement\n</div><div>Retaining Wall Sistering\n</div><div>Retaining Wall Underpinning\n</div><div>Retaining Wall Waterproofing\n</div><div>Retaining Wall Subdrainage\n</div><div>Retaining Wall Suface Drainage\n</div><div>Independant Shoring Pad Footings\n</div><div>Piles and Grade Beam Support Footings\n</div><div>Tilt-Up Concrete Earthquake Strenghtening\n</div><div>Stilt House Eathquake Strengthening\n</div><div><br></div><p></p>",
-          "text3": "<p>Seismic Retrofit\n</p><p>Soft-story Earthquake Retrofit\n</p><p>Weak-Story Earthquake Retrofit \n</p><p>Surface Drainage\n</p><p>Subdrainage \"French Drain\"\n</p><p>Bearing Wall Removal</p><p>Posts and Piers Replacement\n</p><p>Posts and Piers Strapping\n</p><p>Floor Jacking and Leveling\n</p><p>Basement Waterproofing\n</p><p>Planter Waterproofing&nbsp;</p>",
+          "text1": "<p>Foundation Inspection\r</p><p>Foundation Crack Repair\r</p><p>Foundation Replacement\r</p><p>Foundation Sistering\r</p><p>Foundation Underpinning\r</p><p>Foundation Bolting\r</p><p>Foundation Waterproofing\r</p><p>Foundation Slab Crack Repair\r</p><p>Foundation Slab Replacement\r</p><p>Foundation Slab Undepinning\r</p><p>Foundation Retrofits</p>",
+          "text2": "<p>Retaining Wall Crack Repair\r</p><p>Retaining Wall Replacement\r</p><p>Retaining Wall Sistering\r</p><p>Retaining Wall Underpinning\r</p><p>Retaining Wall Waterproofing\r</p><p>Retaining Wall Subdrainage\r</p><p>Retaining Wall Suface Drainage\r</p><p>Independant Shoring Pad Footings\r</p><p>Piles and Grade Beam Support Footings\r</p><p>Tilt-Up Concrete Earthquake Strenghtening\r</p><p>Stilt House Eathquake Strengthening\r</p><p><br></p>",
+          "text3": "<p>Seismic Retrofit\n</p><p>Soft-story Earthquake Retrofit\n</p><p>Weak-Story Earthquake Retrofit\n</p><p>Surface Drainage\n</p><p>Subdrainage \"French Drain\"\n</p><p>Bearing Wall Removal\n</p><p>Posts and Piers Replacement\n</p><p>Posts and Piers Strapping\n</p><p>Floor Jacking and Leveling\n</p><p>Basement Waterproofing\n</p><p>Planter Waterproofing&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content7",
-          "_anchor": "content7-2",
+          "_anchor": "content7-1g",
           "_styles": {
             "P": {
-              "text-align": "center"
-            },
-            "DIV": {
               "text-align": "center"
             }
           }
@@ -255,7 +252,7 @@
         {
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -281,6 +278,34 @@
               "font-size": "36px"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle SPAN": {
+              "color": "#000000",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "title": "",
+          "meta": "<span style=\"font-style: normal;\">Foundation Inspection | Foundation Repair | Seismic Retrofit | Soft Story Retrofit | Earthquake Retrofit | Retaining Wall Repair</span><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1d"
         },
         {
           "_params": {
@@ -470,7 +495,7 @@
             "showMeta": true,
             "paddingTop": "7",
             "paddingBottom": "7",
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "title": "What We Do!",
           "meta": "<span style=\"font-style: normal;\">The New Rise Design/Build Construction, Inc., is a general engineering company that provides structural repairs and upgrade services to all customers who are seeking immediate solutions for foundation problems, retaining wall problems, soft-story condition, house settlelment, floor leveling, drainage problems, hillside stabilization, cripple wall damage, earthquake retrofitting, and any other structural repair or upgrade requiring extensive knowledge in general engineering.</span>",
@@ -626,13 +651,13 @@
             "ShowTexts": true,
             "showButtons": false,
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "columns": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -723,6 +748,36 @@
               "font-size": "24px"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle SPAN": {
+              "color": "#000000",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-section-subtitle": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "title": "",
+          "meta": "<span style=\"font-style: normal;\">Foundation Inspection | Foundation Repair | Seismic Retrofit | Soft Story Retrofit | Earthquake Retrofit | Retaining Wall Repair</span>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1e"
         },
         {
           "_params": {
@@ -955,6 +1010,36 @@
               "color": "#232323"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle SPAN": {
+              "color": "#000000",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-section-subtitle": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "title": "",
+          "meta": "<span style=\"font-style: normal;\">Foundation Inspection | Foundation Repair | Seismic Retrofit | Soft Story Retrofit | Earthquake Retrofit | Retaining Wall Repair</span><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1f"
         },
         {
           "_params": {
