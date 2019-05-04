@@ -68,9 +68,9 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.4"
           },
-          "title": "The New Rise\n<div>Design/Build Construction, Inc.</div>",
+          "title": "NO LONGER IN BUSINESS<br>The New Rise\n<div>Design/Build Construction, Inc.</div>",
           "text": "<span style=\"font-style: normal;\">If you are looking for a professional engineering contractor to perform a foundation inspection or that specializes in providing structural repair solutions for foundation related problems as well as retaining wall problems, then you are at the right place.</span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:(323) 405-1407\" data-toolbar=\"-mbrBtnMove\">(323) 405-1407</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www2.cslb.ca.gov/onlineservices/CheckLicenseII/LicenseDetail.aspx?LicNum=1002509\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CSLB #1002509</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">000</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www2.cslb.ca.gov/onlineservices/CheckLicenseII/LicenseDetail.aspx?LicNum=1002509\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CSLB #1002509</a> ",
           "_tags": [
             "Theme"
           ],
@@ -320,13 +320,13 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "38569 9th St. East\nPalmdale, CA 93550",
-              "placeId": "ChIJ4T1arilYwoARFXFCb7f3i7E",
+              "address": "Palmdale, CA 93552",
+              "placeId": "ChIJuUA9l7D4woARlX6b_DOOT6E",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>38569 9th St. East<br>Palmdale, CA 93550<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:Dvlad@thenewrise.com\">Dvlad@thenewrise.com</a><br>\nPhone: <a href=\"tel:(323) 405-1407\">(323) 405-1407</a><br>\nFax: <a href=\"tel:(661) 998-3887\">(661)&nbsp;998-3887</a>",
+          "text1": "<strong>Address</strong><br>3<br>Palmdale, CA 93550<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:Dvlad@thenewrise.com\">D</a><br>\nPhone: <a href=\"tel:(323) 405-1407\">(</a><br>\nFax: <a href=\"tel:(661) 998-3887\">(</a>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"https://www2.cslb.ca.gov/onlineservices/CheckLicenseII/LicenseDetail.aspx?LicNum=1002509\" style=\"font-size: 0.875rem; background-color: rgb(46, 46, 46);\" target=\"_blank\">Contractors State License Board</a></li><li><a class=\"text-white\" href=\"https://www.earthquakebracebolt.com/\" style=\"font-size: 0.875rem; background-color: rgb(46, 46, 46);\" target=\"_blank\">Earthquake Brace + Bolt</a></li><li><a class=\"text-white\" href=\"https://ecasocal.org/\" style=\"font-size: 0.875rem; background-color: rgb(46, 46, 46);\" target=\"_blank\">Eng. Contractors' Association</a></li></ul>",
           "_tags": [
             "Theme"
@@ -792,13 +792,13 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "38569 9th St. East\nPalmdale, CA 93550",
-              "placeId": "ChIJ4T1arilYwoARFXFCb7f3i7E",
+              "address": "Palmdale, CA 93552",
+              "placeId": "ChIJuUA9l7D4woARlX6b_DOOT6E",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>38569 9th St. East<br>Palmdale, CA 93550<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:Dvlad@thenewrise.com\">Dvlad@thenewrise.com</a><br>\nPhone: <a href=\"tel:(323) 405-1407\">(323) 405-1407</a><br>\nFax: <a href=\"tel:(661) 998-3887\">(661)&nbsp;998-3887</a>",
+          "text1": "<strong>Address</strong><br>3<br>Palmdale, CA 93550<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:Dvlad@thenewrise.com\">D</a><br>\nPhone: <a href=\"tel:(323) 405-1407\">(</a><br>\nFax: <a href=\"tel:(661) 998-3887\">(</a>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"https://www2.cslb.ca.gov/onlineservices/CheckLicenseII/LicenseDetail.aspx?LicNum=1002509\" style=\"font-size: 0.875rem; background-color: rgb(46, 46, 46);\" target=\"_blank\">Contractors State License Board</a></li><li><a class=\"text-white\" href=\"https://www.earthquakebracebolt.com/\" style=\"font-size: 0.875rem; background-color: rgb(46, 46, 46);\" target=\"_blank\">Earthquake Brace + Bolt</a></li><li><a class=\"text-white\" href=\"https://ecasocal.org/\" style=\"font-size: 0.875rem; background-color: rgb(46, 46, 46);\" target=\"_blank\">Eng. Contractors' Association</a></li></ul>",
           "_tags": [
             "Theme"
@@ -925,9 +925,9 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.2"
           },
-          "title": "The New Rise\n<div>Design/Build Construction, Inc.</div>",
-          "text": "<span style=\"font-style: normal;\">38569 9th St. East, Palmdale, CA 93550</span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"mailto:Dvlad@thenewrise.com\" data-toolbar=\"-mbrBtnMove\">Dvlad@thenewrise.com</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"tel:(323) 405-1407\" data-toolbar=\"-mbrBtnMove\">(323) 405-1407</a>",
+          "title": "NO LONGER IN BUSINESS<br>The New Rise<br>\n<div>Design/Build Construction, Inc.</div>",
+          "text": "<span style=\"font-style: normal;\">WE HOPE YOU CAN FIND ANOTHER COMPANY FOR YOUR NEEDS</span>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"mailto:Dvlad@thenewrise.com\" data-toolbar=\"-mbrBtnMove\">D</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">(323)</a>",
           "_tags": [
             "Theme"
           ],
@@ -972,25 +972,25 @@
           },
           "title": "CONTACT FORM",
           "subtitle": "Please provide us with the following information and we will get back at you as soon as possible.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
-            "action": "Dvlad@thenewrise.com",
+            "action": "",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
             "fields": {
               "name": {
-                "visible": true,
+                "visible": false,
                 "title": "Name",
                 "customTitle": "Name*"
               },
               "email": {
-                "visible": true,
+                "visible": false,
                 "title": "Email",
                 "customTitle": "Email*"
               },
               "phone": {
-                "visible": true,
+                "visible": false,
                 "title": "Phone",
                 "customTitle": "Phone"
               },
@@ -1054,13 +1054,13 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "38569 9th St. East\nPalmdale, CA 93550",
-              "placeId": "ChIJ4T1arilYwoARFXFCb7f3i7E",
+              "address": "Palmdale, CA 93552",
+              "placeId": "ChIJuUA9l7D4woARlX6b_DOOT6E",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>38569 9th St. East<br>Palmdale, CA 93550<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:Dvlad@thenewrise.com\">Dvlad@thenewrise.com</a><br>\nPhone: <a href=\"tel:(323) 405-1407\">(323) 405-1407</a><br>\nFax: <a href=\"tel:(661) 998-3887\">(661)&nbsp;998-3887</a>",
+          "text1": "<strong>Address</strong><br>3<br>Palmdale, CA 93550<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:Dvlad@thenewrise.com\">D</a><br>\nPhone: <a href=\"tel:(323) 405-1407\">(</a><br>\nFax: <a href=\"tel:(661) 998-3887\">(</a>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"https://www2.cslb.ca.gov/onlineservices/CheckLicenseII/LicenseDetail.aspx?LicNum=1002509\" style=\"font-size: 0.875rem; background-color: rgb(46, 46, 46);\" target=\"_blank\">Contractors State License Board</a></li><li><a class=\"text-white\" href=\"https://www.earthquakebracebolt.com/\" style=\"font-size: 0.875rem; background-color: rgb(46, 46, 46);\" target=\"_blank\">Earthquake Brace + Bolt</a></li><li><a class=\"text-white\" href=\"https://ecasocal.org/\" style=\"font-size: 0.875rem; background-color: rgb(46, 46, 46);\" target=\"_blank\">Eng. Contractors' Association</a></li></ul>",
           "_tags": [
             "Theme"
